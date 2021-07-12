@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Game",
+      "age": "24",
+      "email": "game@gmail.com",
+      "position": "Backend",
+      "id": 5
+    },
+    {
+      "name": "Jane",
+      "age": "29",
+      "email": "janejane@gmail.com",
+      "position": "HR",
+      "id": 6
+    },
+    {
+      "name": "Ploy",
+      "age": "22",
+      "email": "ployploy@gmail.com",
+      "position": "Web developer",
+      "id": 7
+    }
+  ]
+}
